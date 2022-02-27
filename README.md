@@ -1,4 +1,4 @@
-# cloudflare-ddns-ps
+# Cloudflare DDNS - Powershell
 
 ## Usage
 Navigate to the directory where the downloaded scripts are.
